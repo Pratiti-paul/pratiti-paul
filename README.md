@@ -11,11 +11,6 @@ Hii, This is Pratiti Paul. I'm a data-driven developer who enjoys building produ
 ![](https://github-readme-stats.shion.dev/api?username=pratiti-paul&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=pratiti-paul&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pratiti-paul&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pratiti-paul&limit=5&theme=jolly&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=pratiti-paul&color=brightgreen)](https://visitcount.itsvg.in)
+(https://komarev.com/ghpvc/?username=pratiti-paul&color=brightgreen)](https://visitcount.itsvg.in)
 
 
