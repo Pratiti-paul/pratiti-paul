@@ -15,7 +15,4 @@ Hii, This is Pratiti Paul. I'm a data-driven developer who enjoys building produ
 ![](https://streak-stats.demolab.com/?user=pratiti-paul&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pratiti-paul&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratiti-paul&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiti-paul&layout=compact&theme=tokyonight)
 
