@@ -11,6 +11,5 @@ Hii, This is Pratiti Paul. I'm a data-driven developer who enjoys building produ
 ![](https://github-readme-stats.shion.dev/api?username=pratiti-paul&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=pratiti-paul&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pratiti-paul&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-(https://komarev.com/ghpvc/?username=pratiti-paul&color=brightgreen)](https://visitcount.itsvg.in)
 
 
